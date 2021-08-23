@@ -11,15 +11,16 @@
   "keywords": [],
   "author": "Yannick Deubel",
   "license": "GNU GPLv3",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "peerDependencies": {
     "@types/three": "~0.130",
     "three": "~0.130"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  },
+
   "funding": {
     "url": "https://github.com/sponsors/yandeu"
   },
-  "gitHead": "99f1f465e74fbf7742d2b7517f491514044e9cfc"
+  "gitHead": "f8a1a85835fe3295ae1609abc5334331d796821a"
 }
