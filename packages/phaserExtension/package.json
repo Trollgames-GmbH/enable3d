@@ -1,5 +1,5 @@
 {
-  "name": "@enable3d/phaser-extension",
+  "name": "@enable3d/phaser-extension-tgmod",
   "version": "1.3.0",
   "description": "3D extension for Phaser 3",
   "main": "dist/index.js",
@@ -46,5 +46,6 @@
   },
   "funding": {
     "url": "https://github.com/sponsors/yandeu"
-  }
+  },
+  "gitHead": "2da7b68126cc7ebc89881a2d8ed6a1f82744e19d"
 }
