@@ -1,6 +1,6 @@
 {
   "name": "@trollgames-gmbh/enable3d-three-wrapper",
-  "version": "0.23.0",
+  "version": "2.4.1",
   "description": "",
   "main": "lib/index.js",
   "scripts": {
