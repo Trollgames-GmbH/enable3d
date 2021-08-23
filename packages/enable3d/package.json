@@ -1,5 +1,5 @@
 {
-  "name": "trollgames-enable3d",
+  "name": "enable3d",
   "version": "2.6.0",
   "description": "3D Framework for Web, Mobile and PC",
   "main": "dist/index.js",
