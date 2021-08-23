@@ -1,6 +1,6 @@
 {
   "name": "@enable3d/ammo-on-nodejs",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "Runs ammo.js on your node.js server",
   "main": "dist/index.js",
   "scripts": {
@@ -29,8 +29,8 @@
   },
   "homepage": "https://enable3d.io",
   "devDependencies": {
-    "@enable3d/ammo-physics": "^2.0.0",
-    "@enable3d/common": "^2.0.0",
+    "@enable3d/ammo-physics": "^2.1.0",
+    "@enable3d/common": "^2.1.0",
     "fflate": "^0.6.3"
   },
   "peerDependencies": {
