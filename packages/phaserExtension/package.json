@@ -28,6 +28,9 @@
   "bugs": {
     "url": "https://github.com/Trollgames-GmbH/enable3d/issues"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "homepage": "https://enable3d.io",
   "dependencies": {
     "@enable3d/ammo-physics": "^1.0.0",

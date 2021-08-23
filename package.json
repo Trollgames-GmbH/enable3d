@@ -48,6 +48,9 @@
     "type": "git",
     "url": "git+https://github.com/Trollgames-GmbH/enable3d.git"
   },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  },
   "keywords": [],
   "author": "Yannick Deubel",
   "license": "GNU GPLv3",
