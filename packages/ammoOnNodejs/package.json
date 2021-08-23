@@ -1,6 +1,6 @@
 {
   "name": "@trollgames-gmbh/enable3d-ammo-on-nodejs",
-  "version": "2.5.0",
+  "version": "2.6.0",
   "description": "Runs ammo.js on your node.js server",
   "main": "dist/index.js",
   "scripts": {
@@ -29,8 +29,8 @@
   },
   "homepage": "https://enable3d.io",
   "devDependencies": {
-    "@trollgames-gmbh/enable3d-ammo-physics": "^2.5.0",
-    "@trollgames-gmbh/enable3d-common": "^2.5.0",
+    "@trollgames-gmbh/enable3d-ammo-physics": "^2.6.0",
+    "@trollgames-gmbh/enable3d-common": "^2.6.0",
     "fflate": "^0.6.3"
   },
   "peerDependencies": {

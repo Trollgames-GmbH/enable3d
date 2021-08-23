@@ -1,6 +1,6 @@
 {
   "name": "@trollgames-gmbh/enable3d-common",
-  "version": "2.5.0",
+  "version": "2.6.0",
   "description": "",
   "main": "dist/index.js",
   "scripts": {
@@ -12,7 +12,7 @@
   "author": "Yannick Deubel",
   "license": "GNU GPLv3",
   "dependencies": {
-    "@trollgames-gmbh/enable3d-three-wrapper": "^2.5.0",
+    "@trollgames-gmbh/enable3d-three-wrapper": "^2.6.0",
     "@yandeu/events": "0.0.5"
   },
   "funding": {
