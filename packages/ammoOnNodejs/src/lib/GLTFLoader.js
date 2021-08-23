@@ -146,7 +146,7 @@ class GLTFLoader extends Loader {
     const loader = new FileLoader(this.manager)
 
     loader.setPath(this.path)
-    loader.setResponseType('arraybuffer')
+    loader.setResponseType('json')
     loader.setRequestHeader(this.requestHeader)
     loader.setWithCredentials(this.withCredentials)
 
