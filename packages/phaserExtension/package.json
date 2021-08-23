@@ -1,6 +1,6 @@
 {
   "name": "@enable3d/phaser-extension",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "3D extension for Phaser 3",
   "main": "dist/index.js",
   "scripts": {
