@@ -1,5 +1,5 @@
 {
-  "name": "@trollgames-gmbh/enable3d/phaser-extension",
+  "name": "@trollgames-gmbh/enable3d-phaser-extension",
   "version": "1.4.0",
   "description": "3D extension for Phaser 3",
   "main": "dist/index.js",
