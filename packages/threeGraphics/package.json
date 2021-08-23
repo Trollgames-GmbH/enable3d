@@ -24,6 +24,9 @@
   "bugs": {
     "url": "https://github.com/Trollgames-GmbH/enable3d/issues"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "homepage": "https://enable3d.io",
   "dependencies": {
     "@trollgames-gmbh/enable3d-ammo-physics": "^2.5.0",
@@ -42,5 +45,5 @@
   "funding": {
     "url": "https://github.com/sponsors/yandeu"
   },
-  "gitHead": "0c163b87d2bbb68292cf36ee890b89def9048b6b"
+  "gitHead": "99f1f465e74fbf7742d2b7517f491514044e9cfc"
 }
