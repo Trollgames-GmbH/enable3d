@@ -1,5 +1,5 @@
 {
-  "name": "@enable3d/phaser-extension-tgmod",
+  "name": "@Trollgames-GmbH/enable3d/phaser-extension",
   "version": "1.4.0",
   "description": "3D extension for Phaser 3",
   "main": "dist/index.js",
@@ -47,5 +47,5 @@
   "funding": {
     "url": "https://github.com/sponsors/yandeu"
   },
-  "gitHead": "2da7b68126cc7ebc89881a2d8ed6a1f82744e19d"
+  "gitHead": "9ba9bc0a237e914137fedefb63144d013983c373"
 }
