@@ -46,15 +46,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/enable3d/enable3d.git"
+    "url": "git+https://github.com/Trollgames-GmbH/enable3d.git"
   },
   "keywords": [],
   "author": "Yannick Deubel",
   "license": "GNU GPLv3",
   "bugs": {
-    "url": "https://github.com/enable3d/enable3d/issues"
+    "url": "https://github.com/Trollgames-GmbH/enable3d/issues"
   },
-  "homepage": "https://github.com/enable3d/enable3d#readme",
+  "homepage": "https://github.com/Trollgames-GmbH/enable3d#readme",
   "dependencies": {
     "@types/matter-js": "0.17.3",
     "@types/three": "~0.130",
