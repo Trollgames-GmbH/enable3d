@@ -1,6 +1,6 @@
 {
   "name": "trollgames-enable3d",
-  "version": "2.4.1",
+  "version": "2.4.2",
   "description": "3D Framework for Web, Mobile and PC",
   "main": "dist/index.js",
   "scripts": {
@@ -31,10 +31,10 @@
   },
   "homepage": "https://enable3d.io",
   "dependencies": {
-    "@trollgames-gmbh/enable3d-ammo-physics": "^2.4.1",
-    "@trollgames-gmbh/enable3d-common": "^2.4.1",
-    "@trollgames-gmbh/enable3d-three-graphics": "^2.4.1",
-    "@trollgames-gmbh/enable3d-three-wrapper": "^2.4.1"
+    "@trollgames-gmbh/enable3d-ammo-physics": "^2.4.2",
+    "@trollgames-gmbh/enable3d-common": "^2.4.2",
+    "@trollgames-gmbh/enable3d-three-graphics": "^2.4.2",
+    "@trollgames-gmbh/enable3d-three-wrapper": "^2.4.2"
   },
   "funding": {
     "url": "https://github.com/sponsors/yandeu"
