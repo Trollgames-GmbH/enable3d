@@ -7,3 +7,5 @@ test/**/*.tmp.test.js
 **/node_modules/**
 **/screenshots/**
 **/*/package-lock.json
+/.idea/
+/yarn.lock
