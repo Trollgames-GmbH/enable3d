@@ -1,6 +1,6 @@
 {
   "name": "@trollgames-gmbh/enable3d-phaser-extension",
-  "version": "1.4.0",
+  "version": "2.0.0",
   "description": "3D extension for Phaser 3",
   "main": "dist/index.js",
   "scripts": {
@@ -33,10 +33,10 @@
   },
   "homepage": "https://enable3d.io",
   "dependencies": {
-    "@enable3d/ammo-physics": "^1.0.0",
-    "@enable3d/common": "^1.0.0",
-    "@enable3d/three-graphics": "^1.0.0",
-    "@enable3d/three-wrapper": "^1.0.0",
+    "@enable3d/ammo-physics": "^2.0.0",
+    "@enable3d/common": "^2.0.0",
+    "@enable3d/three-graphics": "^2.0.0",
+    "@enable3d/three-wrapper": "^2.0.0",
     "@yandeu/events": "0.0.5"
   },
   "peerDependencies": {
